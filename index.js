@@ -1,2 +1,2 @@
 // Write your solution in this file!
-const drivers = 'object'
+const drivers = {object: 'object'}
