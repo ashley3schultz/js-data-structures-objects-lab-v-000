@@ -1,2 +1,2 @@
 // Write your solution in this file!
-const drivers = {key: 'value'}
+const obj = { foo: 'bar' };
